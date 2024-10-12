@@ -1,0 +1,20 @@
+@charset "utf-8";
+body h1 {
+    color: #FF6700;
+    font-family: "HGPｺﾞｼｯｸE";
+    font-size: xx-large;
+}
+.key {
+    color: #FFF4F4;
+    background-color: #1200FF;
+    font-size: x-large;
+}
+body p img {
+    border: 10px dotted #00FF5C;
+}
+body {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 0% 0%;
+    background-image: url(haikei.jpg);
+}
